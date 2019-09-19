@@ -7,7 +7,9 @@ package cn.myd.gg;
 
 public class Template {
 
-
+/**
+*疯狂添加注释，我就操了
+*/
     public static void main(String[] args) {
 
     }
